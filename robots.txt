@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mvanaken76.github.io/olbsjbmalle/sitemap.xml
